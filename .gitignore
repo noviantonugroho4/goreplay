@@ -10,17 +10,17 @@ vendor
 *.out
 hey
 
-*.bin
+# *.bin
 
-*.gz
-*.zip
+# *.gz
+# *.zip
 
 *.class
 
 *.test
 .idea
 *.iml
-gor
+# gor
 
 *.mprof
 
